@@ -1,0 +1,2 @@
+phucfnbapi / admin / 123 
+https://www.kiotviet.vn/public-api-fnb/?from=search
